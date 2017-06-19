@@ -1,0 +1,16 @@
+{
+    "name": "agent-stats",
+    "version": "0.0.1",
+    "description": "Inofficial API-client for agent-stats.com",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "martin.freisen@gmail.com",
+    "license": "ISC",
+    "dependencies": {
+        "moment": "2.18.1",
+        "request": "2.81.0",
+        "request-promise-native": "1.0.4"
+    }
+}
