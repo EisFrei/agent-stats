@@ -9,8 +9,8 @@
     "author": "martin.freisen@gmail.com",
     "license": "ISC",
     "dependencies": {
-        "moment": "2.18.1",
-        "request": "2.81.0",
-        "request-promise-native": "1.0.4"
+        "moment": "2.21.0",
+        "request": "2.83.0",
+        "request-promise-native": "1.0.5"
     }
 }
