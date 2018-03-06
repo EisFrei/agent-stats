@@ -1,6 +1,6 @@
 {
     "name": "agent-stats",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "Inofficial API-client for agent-stats.com",
     "main": "index.js",
     "scripts": {
